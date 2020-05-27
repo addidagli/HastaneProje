@@ -1,0 +1,46 @@
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBilgiDuzenle.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBransPaneli.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorBilgiDuzenle.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorDetay.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorGiris.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorPaneli.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDuyurular.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormGirisler.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaDetay.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaGiris.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaKayıt.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormRandevuListesi.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterDetay.resources
+C:\Users\addi\Desktop\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterGiris.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBilgiDuzenle.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorPaneli.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorBilgiDuzenle.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorDetay.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorGiris.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBransPaneli.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDuyurular.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormGirisler.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaDetay.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaGiris.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaKayıt.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormRandevuListesi.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterDetay.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterGiris.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+D:\Carrier\Çalıştığım Diller\C#\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
